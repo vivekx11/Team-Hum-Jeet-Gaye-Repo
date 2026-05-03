@@ -1,4 +1,11 @@
 # 🏃 Health Tracker - AI-Powered Personal Health Assistant
+-------------------------------------------------------------
+THIS PROJECT DEVELOPED BY TEAM "HUM JEET GAYE"
+TABISH-> DEVELOPER
+BHAVESH-> JR DEV
+SHAHID-> BACKEND DEV
+SUNNY-> JR BACKEND DEV
+VIVEK-> UIUX & TESTING 
 
 <p align="center">
   <img src="docs/assets/logo.png" alt="Health Tracker Logo" width="120"/>
